@@ -1,0 +1,22 @@
+{
+  "name": "finalproject_evgeniap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir build",
+    "delete": "rmdir build",
+    "say": "echo Hello!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/FinalProject_EvgeniaP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/FinalProject_EvgeniaP/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/FinalProject_EvgeniaP#readme"
+}
